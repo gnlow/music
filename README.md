@@ -1,15 +1,27 @@
-# music
+# music  
 i should listen
 
-## Electric
+## Electronic
 - **silentroom**
 - **frums**
 - nitro
 - **billiummoto**
 - factal
-## Future
+---
+- zohka
+- **lalanoi**
+- miii
+- **isltr**
+---
 - yuc'e
 - **psyqui**
 - **zekk**
 - awfuless
 - emocosine
+---
+- **tlt**
+- cg5
+---
+- **tak**
+- hayako
+---
