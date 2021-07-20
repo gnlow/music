@@ -12,10 +12,17 @@ i should listen
 - **lalanoi**
 - miii
 - **isltr**
+- onumi
+---
+- meiso
+---
+- mmqx
+- o2i3
 ---
 - yuc'e
 - **psyqui**
 - **zekk**
+  - kikyo mondai
 - awfuless
 - emocosine
 ---
@@ -25,3 +32,11 @@ i should listen
 - **tak**
 - hayako
 ---
+- **creo**
+- garlagan
+- meganeko
+- bossfight
+---
+- simoyuki
+- **speder2**
+- 
