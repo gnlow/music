@@ -1,5 +1,5 @@
 # music  
-i should listen
+i should listen - random order
 
 ## Electronic
 - **silentroom**
@@ -8,16 +8,37 @@ i should listen
 - **billiummoto**
 - factal
 ---
+- sakuzyo
+---
 - zohka
 - **lalanoi**
 - miii
 - **isltr**
 - onumi
+- katagiri
+---
+- **ampzer**
+- gill chang
 ---
 - meiso
 ---
 - mmqx
 - o2i3
+- zxnx
+---
+- **snow-key**
+- yellowism
+- gmoh
+---
+- seo mary
+- **first aid**
+- cosmic boy
+---
+- srav3r
+- you
+- kakeru
+- lapix
+- tsubasare bozz
 ---
 - yuc'e
 - **psyqui**
@@ -25,6 +46,14 @@ i should listen
   - kikyo mondai
 - awfuless
 - emocosine
+---
+- **airuei**
+  - succducc
+---
+- yusi
+---
+- lokan
+- guana
 ---
 - **tlt**
 - cg5
@@ -39,4 +68,23 @@ i should listen
 ---
 - simoyuki
 - **speder2**
-- 
+---
+## J
+- **nilfruits**
+- inabakumori
+---
+## K
+- **thornapple**
+- **mot**
+---
+- **선우정아**
+---
+- 스텔라장
+---
+- **공중도둑**
+---
+- 혁오
+- **잔나비**
+- sultan in the disco
+---
+- **신지훈**
